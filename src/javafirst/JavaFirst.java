@@ -31,7 +31,7 @@ public class JavaFirst {
 
         System.out.println("The sum of numbers is: " + sum + "name" + name);
 
-       /* Scanner reader = new Scanner(System.in);
+        Scanner reader = new Scanner(System.in);
 
         int num;
         // for loop  
@@ -47,7 +47,7 @@ public class JavaFirst {
             if (num == 10) {
                 break;
             }
-        }*/
+        }
     }
 
 }
