@@ -22,5 +22,7 @@ public class NewClass {
         this.mahfuj = mahfuj;
          this.joy = joy;
     }
+    
+    
 
 }
